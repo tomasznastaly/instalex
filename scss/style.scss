@@ -475,7 +475,7 @@ header {
 				height: calc(100vh);
 				min-height: 700px;
 				.child-name {
-					font-size: 40px;
+					font-size: 28px;
 					color: $white;
 				}
 				h1 {
@@ -492,7 +492,7 @@ header {
 				  //   box-shadow: 0.5em 0 0 #fd5f00,-0.5em 0 0 #fd5f00;
 					}
 					@include media-breakpoint-down(md) {
-						font-size: 40px;
+						font-size: 28px;
 					}
 				}
 				p {
