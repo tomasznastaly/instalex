@@ -309,13 +309,13 @@ h1, h2, h3, h4, h5, h6,
   color: inherit; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 2.2rem; }
 
 h2, .h2 {
   font-size: 2rem; }
 
 h3, .h3 {
-  font-size: 1.75rem; }
+  font-size: 1.5rem; }
 
 h4, .h4 {
   font-size: 1.5rem; }
@@ -4985,7 +4985,7 @@ button.bg-danger:focus {
 .bg-yellow {
   background-color: #fae88e !important; }
 .bg-light {
-  background-color: #f8f9fa !important; }
+  background-color: #e9eff4 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -7859,7 +7859,7 @@ header {
   .site-footer p:last-child {
     margin-bottom: 0; }
   .site-footer a {
-    color: #f8dc54;
+    color: #2b4997;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
     .site-footer a:hover {
       color: #000;
